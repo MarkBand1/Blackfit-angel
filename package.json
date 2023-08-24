@@ -1,0 +1,22 @@
+{
+  "name": "angel-blackfit",
+  "version": "1.0.0",
+  "description": "fitness app",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkBand1/Blackfit-angel.git"
+  },
+  "keywords": [
+    "blackfit"
+  ],
+  "author": "Marco Antonio Banda Nava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkBand1/Blackfit-angel/issues"
+  },
+  "homepage": "https://github.com/MarkBand1/Blackfit-angel#readme"
+}
